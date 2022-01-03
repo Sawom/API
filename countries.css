@@ -1,0 +1,10 @@
+#showAll{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.styleCountry{
+    border: 3px solid orange;
+    border-radius: 10px;
+    margin: 15px;
+    padding: 15px;
+}
